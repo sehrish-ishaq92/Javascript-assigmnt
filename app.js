@@ -1,1 +1,1 @@
-alert("Welcome to abc website");
+alert("Error!Please enter a valid password");
